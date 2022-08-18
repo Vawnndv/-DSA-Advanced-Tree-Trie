@@ -14,6 +14,7 @@ How to prepare your source code
 − Build a trie from given items.
 − Remove all elements from the trie.
 
+
 • Consider a mini dictionary of English words, which is stored in a text file of following format.
 
 − First line: a positive integer N, indicating the number of words.
